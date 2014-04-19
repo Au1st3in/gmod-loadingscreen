@@ -1,7 +1,7 @@
 Garry's Mod Loading Screen
 ==================
 
-PHP based loading screen for Garry's Mod Server with SteamAPI support.
+PHP based loading screen for Garry's Mod Server with Steam Web API support.
 
 ## Demo
 
