@@ -3,13 +3,13 @@ gmod-loadingscreen
 
 a garrys mod loading screen
 
-## demo
+## DEMO
 
-**[see it in action here // can be a modified version..](http://gabrielw.de/gmod/?steamid=76561198051267973&mapname=test)**
+**[Example](http://au1st3in.no-ip.info/gmod/?steamid=76561198026915793&mapname=test)**
 
-**[Screenshot](http://i.imgur.com/kdmSZ18.png)**
+**[Screenshot](http://i.imgur.com/GjxCBJT.jpg)**
 
-## features
+## Features
 
 - Image slideshow with random pictures
 - Random music with autoplay in background
@@ -35,6 +35,8 @@ a garrys mod loading screen
 The server name and the content of the page can be easily edited with basic knowledge of HTML. in the next version there will be a easy config file so its easier to customize :bowtie:
 
 _requires php5_ &middot; _styled with [bootstrap](http://getbootstrap.com/) & [cyborg theme](http://bootswatch.com/cyborg/)_
+
+
 
 
 
