@@ -7,7 +7,7 @@ PHP based loading screen for Garry's Mod Server with Steam Web API support.
 
 **[Joining Server Demo](http://au1st3in.no-ip.info/gmod/?steamid=76561198026915793&mapname=test)**
 
-**[ULX MOTD Rules Demo](http://au1st3in.no-ip.info/gmod/?steamid=76561198026915793&mapname=test)**
+**[ULX MOTD Rules Demo](http://au1st3in.no-ip.info/gmod/rules.php)**
 
 **[Screenshot](http://i.imgur.com/GjxCBJT.jpg)**
 
