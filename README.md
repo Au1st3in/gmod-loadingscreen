@@ -37,7 +37,7 @@ PHP based loading screen for Garry's Mod Server with SteamAPI support.
 * Steam Web API (https://developer.valvesoftware.com/wiki/Steam_Web_API)
 * Garry Newman (http://www.garrysmod.com/)
 
-_Requires PHP_ &middot; _styled with [Bootstrap](http://getbootstrap.com/) & [Cyborg Theme](http://bootswatch.com/cyborg/)_
+_Requires PHP_ &middot; _Styled with [Bootstrap](http://getbootstrap.com/) & [Cyborg Theme](http://bootswatch.com/cyborg/)_
 
 
 
