@@ -5,7 +5,7 @@ PHP based loading screen for Garry's Mod Server with Steam Web API support.
 
 ## Demo
 
-**[Joining Server Demo](http://au1st3in.no-ip.info/gmod/?steamid=76561198026915793&mapname=test)**
+**[Joining Server Demo](http://au1st3in.no-ip.info/gmod/?steamid=76561198026915793&mapname=gm_bigcity)**
 
 **[ULX MOTD Rules Demo](http://au1st3in.no-ip.info/gmod/rules.php)**
 
@@ -17,6 +17,7 @@ PHP based loading screen for Garry's Mod Server with Steam Web API support.
 - Autoplay Background Music
 - Welcome Message with SteamID
 - Displays Music Name
+- Shows Current Map Name
 
 **Additional**
 - rules.php can be used to show rules after joining the server for the `motd`
