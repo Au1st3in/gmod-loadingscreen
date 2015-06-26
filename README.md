@@ -1,15 +1,8 @@
 Garry's Mod Loading Screen
 ==================
 
+![](https://raw.githubusercontent.com/Au1st3in/gmod-loadingscreen/master/gmod-loadingscreen.jpg)
 PHP based loading screen for Garry's Mod Server with Steam Web API support.
-
-## Demo
-
-**[Joining Server Demo](/gmod/?steamid=76561198026915793&mapname=gm_bigcity)**
-
-**[ULX MOTD Rules Demo](/gmod/rules.php)**
-
-**[Screenshot](http://i.imgur.com/GjxCBJT.jpg)**
 
 ## Features
 
@@ -41,10 +34,3 @@ PHP based loading screen for Garry's Mod Server with Steam Web API support.
 * Garry Newman (https://github.com/garrynewman)
 
 _Requires PHP_ &middot; _Styled with [Bootstrap](http://getbootstrap.com/) & [Cyborg Theme](http://bootswatch.com/cyborg/)_
-
-
-
-
-
-
-
