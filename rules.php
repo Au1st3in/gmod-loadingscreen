@@ -7,11 +7,11 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/animations.css">
+    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="css/animations.min.css">
     <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 </head>
-<body> 
+<body>
     <div class="container">
         <div class="jumbotron" style="margin: 50px auto 10px; max-width: 840px;">
             <img src="img/rules.png" alt="" class="pull-right img-rounded" style="width: 46%; height: 46%;">
@@ -33,8 +33,7 @@
             </p>
         </div>
     </div>
-    <script src="js/vendor/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="js/vendor/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
 </body>
 </html>

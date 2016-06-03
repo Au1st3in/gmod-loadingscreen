@@ -28,7 +28,7 @@ if (isset($_GET['steamid'])) {
         $plname = $arr['response']['players'][0]['personaname'];
     if (isset($arr['response']['players'][0]['avatar']))
         $avatar = $arr['response']['players'][0]['avatar'];
-    
+
 }
 
 ?>
@@ -37,16 +37,15 @@ if (isset($_GET['steamid'])) {
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title></title>
+    <title><?php echo $plname ?></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/animations.css">
-
+    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="css/animations.min.css">
     <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 </head>
-<body> 
+<body>
     <audio autoplay loop>
         <source src="music/<?php echo $r?>.ogg" type="audio/ogg">
     </audio>
@@ -81,9 +80,8 @@ if (isset($_GET['steamid'])) {
         Hello, <b><?php echo $plname ?></b><?php echo $map ?><br>
         Music: "<?php echo $authors[$r];?>"
     </div>
-    <script src="js/vendor/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="js/vendor/bootstrap.min.js"></script>
     <script src="js/jquery.cycle2.min.js"></script>
-    <script src="js/main.js"></script>
 </body>
 </html>

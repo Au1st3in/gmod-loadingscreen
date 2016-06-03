@@ -1,4 +1,12 @@
-Garry's Mod Loading Screen
+Garry's Mod Material Design Loading Screen (Updated)
+==================
+
+![](https://raw.githubusercontent.com/Au1st3in/gmod-loadingscreen-materialize/master/img/gmod-loadingscreen-materialize.png)
+https://github.com/Au1st3in/gmod-loadingscreen-materialize
+Materialize themed PHP based loading screen for Garry's Mod with Steam Web API support.
+
+
+Garry's Mod Loading Screen (Outdated)
 ==================
 
 ![](https://raw.githubusercontent.com/Au1st3in/gmod-loadingscreen/master/gmod-loadingscreen.jpg)
