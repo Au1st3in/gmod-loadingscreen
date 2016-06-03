@@ -35,10 +35,10 @@ PHP based loading screen for Garry's Mod Server with Steam Web API support.
 
 ## Credits
 * GabrielWanzek (https://github.com/GabrielWanzek/gmod-loadingscreen)
-* Bootstrap (https://github.com/twbs/bootstrap)
-* Cyborg Theme (https://github.com/thomaspark/bootswatch/tree/gh-pages/cyborg)
-* PHP5 (http://www.php.net/)
-* Steam Web API (https://developer.valvesoftware.com/wiki/Steam_Web_API)
-* Garry Newman (https://github.com/garrynewman)
+* Thomas Park (https://github.com/thomaspark/bootswatch/tree/gh-pages/cyborg)
+
+## Documentation
+* Bootstrap (http://getbootstrap.com)
+* Steam Web-API (https://developer.valvesoftware.com/wiki/Steam_Web_API)
 
 _Requires PHP_ &middot; _Styled with [Bootstrap](http://getbootstrap.com/) & [Cyborg Theme](http://bootswatch.com/cyborg/)_
