@@ -6,7 +6,7 @@ https://github.com/Au1st3in/gmod-loadingscreen-materialize<br>
 Materialize themed PHP based loading screen for Garry's Mod with Steam Web API support.
 
 
-Garry's Mod Loading Screen (Outdated)
+Garry's Mod Loading Screen (Original)
 ==================
 
 ![](https://raw.githubusercontent.com/Au1st3in/gmod-loadingscreen/master/gmod-loadingscreen.jpg)
